@@ -1,0 +1,1 @@
+# common-element-in-3-given-arrays
